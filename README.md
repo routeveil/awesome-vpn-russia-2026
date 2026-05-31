@@ -42,6 +42,8 @@ For users with technical skills and willingness to maintain their own VPS.
 
 - **[Marzban](https://github.com/Gozargah/Marzban)** — Alternative panel for Xray-core with multi-user support and traffic accounting.
 
+- [xray-reality-guide](https://github.com/routeveil/xray-reality-guide) — Step-by-step guide for setting up VLESS + Reality on a private VPS. Stable in Russia, China, and Iran.
+
 - **[Wireguard-Easy](https://github.com/wg-easy/wg-easy)** — Simplest WireGuard deployment with web UI. Note: vanilla WireGuard is increasingly blocked in Russia, use with obfuscation.
 
 ## Clients & Apps
